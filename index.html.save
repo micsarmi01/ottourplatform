@@ -1,0 +1,42 @@
+<!--
+To change this template use Tools | Templates.
+-->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+body {
+    text-align: center;
+    text-shadow: .5px .5px .5px #ccc;
+    background-color: #37c8be;
+    font-weight: bold;
+    line-height: 15px;
+    font-family: times, Times New Roman, times-roman, georgia, serif;
+    font-size: 20px;
+    color: white;
+}
+h1 {
+    font-family: times, Times New Roman, times-roman, georgia, serif;
+	color: #444;
+	margin: 0;
+	padding: 0px 0px 6px 0px;
+	font-size: 40px;
+	line-height: 44px;
+	letter-spacing: -2px;
+	font-weight: bold;
+	text-align: center;
+}
+div {
+    
+    /*border:5px solid white;*/
+}   
+ <title>Ottours - BLE Context Tours</title>
+</head>
+<body>
+<h1>Ottours!</h1>
+
+
+
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/en/c/c2/CSUMB_Athletics_logo.png">
+</body>
+</html>
